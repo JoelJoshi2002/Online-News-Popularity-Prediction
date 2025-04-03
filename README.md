@@ -1,14 +1,17 @@
 
-1. Overview of Problem Statement
+# 1. Overview of Problem Statement
 
 The popularity of online news articles, often measured by the number of shares it receives, depends on various factors such as the article’s content, publication timing, and metadata. Predicting whether an article will become popular is a challenging yet valuable task for news publishers aiming to optimize their content strategies and boost reader engagement. This project leverages machine learning to address this problem using a dataset of online news articles.
-2. Objective
+
+# 2. Objective
 
 The goal of this project is to build an accurate machine learning model to predict whether an online news article will be popular, defined here as achieving a number of shares equal to or exceeding a threshold (e.g., 1400 shares), based on its features.
-3. Data Description:
+
+# 3. Data Description:
 
 The Online News Popularity Dataset contains various features related to articles published by Mashable. The objective is to classify articles as Popular or Not Popular based on their content characteristics, metadata, and social signals.
 Key Attributes and Description
+
 1. URL & Temporal Features
 
     url: The link to the news article.
